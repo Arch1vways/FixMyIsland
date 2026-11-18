@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FixMyIsland</string>
+    <string name="xposed_description">(OriginOS Only) Detects and force enables music players on Origin Island</string>
+</resources>
